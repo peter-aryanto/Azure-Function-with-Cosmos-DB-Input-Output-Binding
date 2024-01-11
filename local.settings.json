@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=af1func;AccountKey=C0w+Wb4zBDJ86CKCPQBUYV5IJXwLdDVorpD/xufWOPEZOkyFAzyBGQkzwTO0myXzw3ROUsZbXI1n+ASt+YSSGA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "af1cosmosdb_DOCUMENTDB": "AccountEndpoint=https://af1cosmosdb.documents.azure.com:443/;AccountKey=CiHzD2tXzTF2jJTS8DMguuJc3VaIuURoletSKxkdrB93mDWWwseCs7Xkh9nw8l7olk9pwnzoV0QgACDb0NqigA==;",
+    "CosmosDbConnectionString": "AccountEndpoint=https://af1cosmosdb.documents.azure.com:443/;AccountKey=CiHzD2tXzTF2jJTS8DMguuJc3VaIuURoletSKxkdrB93mDWWwseCs7Xkh9nw8l7olk9pwnzoV0QgACDb0NqigA==",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "ae7c6ec3-1a45-4dda-8fe6-e5bc64b4a8d2",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=ae7c6ec3-1a45-4dda-8fe6-e5bc64b4a8d2;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=af1func;AccountKey=C0w+Wb4zBDJ86CKCPQBUYV5IJXwLdDVorpD/xufWOPEZOkyFAzyBGQkzwTO0myXzw3ROUsZbXI1n+ASt+YSSGA==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "af1funcb3087d",
+    "WEBSITE_RUN_FROM_PACKAGE": "1"
+  }
+}
